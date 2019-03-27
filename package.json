@@ -1,0 +1,24 @@
+{
+  "name": "algocasts",
+  "version": "1.0.0",
+  "description": "Companion repo to a course on Udemy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegorov/AlgoCasts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gegorov/AlgoCasts/issues"
+  },
+  "homepage": "https://github.com/gegorov/AlgoCasts#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
